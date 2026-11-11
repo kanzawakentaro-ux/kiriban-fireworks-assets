@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240">
+<title>スターマイン</title>
+<rect width="480" height="240" rx="16" fill="#0b1233"/>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="70 236;70 236;70 95;70 95" keyTimes="0;0.005;0.175;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.005;0.018;0.162;0.175;1" dur="4s" repeatCount="indefinite"/>
+<line y2="16" stroke="#ff5c7a" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#ff5c7a" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="70" cy="95" r="12" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.175;0.195;0.3;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(70 95)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.175;0.262;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.175;0.188;0.4;0.537;1" dur="4s" repeatCount="indefinite"/>
+<line x2="0" y2="-42" transform="rotate(0)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-42" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(30)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="-36.373" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(60)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="-21" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(90)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="42" cy="0" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(120)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="21" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(150)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="36.373" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(180)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="42" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(210)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="36.373" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(240)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="21" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(270)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-42" cy="0" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(300)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="-21" r="3" fill="#ff5c7a"/>
+<line x2="0" y2="-42" transform="rotate(330)" stroke="#ff5c7a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="-36.373" r="3" fill="#ff5c7a"/>
+</g></g>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="165 236;165 236;165 70;165 70" keyTimes="0;0.113;0.287;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.113;0.125;0.275;0.287;1" dur="4s" repeatCount="indefinite"/>
+<line y2="16" stroke="#ffd54a" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#ffd54a" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="165" cy="70" r="12" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.287;0.307;0.412;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(165 70)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.287;0.375;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.287;0.3;0.512;0.65;1" dur="4s" repeatCount="indefinite"/>
+<line x2="0" y2="-42" transform="rotate(0)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-42" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(30)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="-36.373" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(60)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="-21" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(90)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="42" cy="0" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(120)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="21" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(150)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="36.373" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(180)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="42" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(210)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="36.373" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(240)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="21" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(270)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-42" cy="0" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(300)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="-21" r="3" fill="#ffd54a"/>
+<line x2="0" y2="-42" transform="rotate(330)" stroke="#ffd54a" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="-36.373" r="3" fill="#ffd54a"/>
+</g></g>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="255 236;255 236;255 100;255 100" keyTimes="0;0.225;0.4;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.225;0.238;0.388;0.4;1" dur="4s" repeatCount="indefinite"/>
+<line y2="16" stroke="#5ef2a0" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#5ef2a0" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="255" cy="100" r="12" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.4;0.42;0.525;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(255 100)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.4;0.488;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.413;0.625;0.762;1" dur="4s" repeatCount="indefinite"/>
+<line x2="0" y2="-42" transform="rotate(0)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-42" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(30)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="-36.373" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(60)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="-21" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(90)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="42" cy="0" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(120)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="21" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(150)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="36.373" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(180)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="42" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(210)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="36.373" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(240)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="21" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(270)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-42" cy="0" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(300)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="-21" r="3" fill="#5ef2a0"/>
+<line x2="0" y2="-42" transform="rotate(330)" stroke="#5ef2a0" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="-36.373" r="3" fill="#5ef2a0"/>
+</g></g>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="345 236;345 236;345 65;345 65" keyTimes="0;0.338;0.512;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.338;0.35;0.5;0.512;1" dur="4s" repeatCount="indefinite"/>
+<line y2="16" stroke="#5ec8ff" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#5ec8ff" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="345" cy="65" r="12" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.512;0.532;0.637;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(345 65)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.512;0.6;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.512;0.525;0.737;0.875;1" dur="4s" repeatCount="indefinite"/>
+<line x2="0" y2="-42" transform="rotate(0)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-42" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(30)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="-36.373" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(60)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="-21" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(90)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="42" cy="0" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(120)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="21" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(150)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="36.373" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(180)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="42" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(210)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="36.373" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(240)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="21" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(270)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-42" cy="0" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(300)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="-21" r="3" fill="#5ec8ff"/>
+<line x2="0" y2="-42" transform="rotate(330)" stroke="#5ec8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="-36.373" r="3" fill="#5ec8ff"/>
+</g></g>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="425 236;425 236;425 95;425 95" keyTimes="0;0.45;0.625;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.463;0.613;0.625;1" dur="4s" repeatCount="indefinite"/>
+<line y2="16" stroke="#d98cff" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#d98cff" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="425" cy="95" r="12" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.625;0.645;0.75;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(425 95)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.625;0.713;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.625;0.637;0.85;0.988;1" dur="4s" repeatCount="indefinite"/>
+<line x2="0" y2="-42" transform="rotate(0)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-42" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(30)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="-36.373" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(60)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="-21" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(90)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="42" cy="0" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(120)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="36.373" cy="21" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(150)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="36.373" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(180)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="42" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(210)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="36.373" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(240)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="21" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(270)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-42" cy="0" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(300)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-36.373" cy="-21" r="3" fill="#d98cff"/>
+<line x2="0" y2="-42" transform="rotate(330)" stroke="#d98cff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-21" cy="-36.373" r="3" fill="#d98cff"/>
+</g></g>
+</svg>

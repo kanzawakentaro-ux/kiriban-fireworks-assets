@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240">
+<title>鏡</title>
+<rect width="480" height="240" rx="16" fill="#0b1233"/>
+<line x1="240" y1="14" x2="240" y2="226" stroke="#9bb0ff" stroke-width="1" stroke-dasharray="6 4" opacity="0.5">
+<animate attributeName="opacity" values="0.35;0.35;0.9;0.9;0.35;0.35" keyTimes="0;0.278;0.389;0.722;0.889;1" dur="3.6s" repeatCount="indefinite"/>
+</line>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="138 236;138 236;138 100;138 100" keyTimes="0;0.028;0.278;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="3.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.028;0.042;0.264;0.278;1" dur="3.6s" repeatCount="indefinite"/>
+<line y2="16" stroke="#7de8ff" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#7de8ff" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="138" cy="100" r="14" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.278;0.3;0.417;1" dur="3.6s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(138 100)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.278;0.403;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="3.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.278;0.292;0.667;0.833;1" dur="3.6s" repeatCount="indefinite"/>
+<line x2="0" y2="-62" transform="rotate(10)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="10.766" cy="-61.058" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-40.3" transform="rotate(35.714)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="23.525" cy="-32.721" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-52.7" transform="rotate(61.429)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="46.282" cy="-25.204" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-31" transform="rotate(87.143)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="30.961" cy="-1.545" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-62" transform="rotate(112.857)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="57.132" cy="24.083" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-43.4" transform="rotate(138.571)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="28.717" cy="32.541" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-55.8" transform="rotate(164.286)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="15.113" cy="53.714" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-62" transform="rotate(190)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-10.766" cy="61.058" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-40.3" transform="rotate(215.714)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-23.525" cy="32.721" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-52.7" transform="rotate(241.429)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-46.282" cy="25.204" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-31" transform="rotate(267.143)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-30.961" cy="1.545" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-62" transform="rotate(292.857)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-57.132" cy="-24.083" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-43.4" transform="rotate(318.571)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-28.717" cy="-32.541" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-55.8" transform="rotate(344.286)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-15.113" cy="-53.714" r="3" fill="#e8fbff"/>
+</g></g>
+<g opacity="0">
+<animateTransform attributeName="transform" type="translate" values="342 236;342 236;342 100;342 100" keyTimes="0;0.028;0.278;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="3.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.028;0.042;0.264;0.278;1" dur="3.6s" repeatCount="indefinite"/>
+<line y2="16" stroke="#7de8ff" stroke-width="1.5" opacity="0.6"/>
+<circle r="6" fill="#7de8ff" opacity="0.3"/>
+<circle r="2.5" fill="#ffffff"/>
+</g>
+<circle cx="342" cy="100" r="14" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.278;0.3;0.417;1" dur="3.6s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(342 100) scale(-1 1)">
+<g opacity="0">
+<animateTransform attributeName="transform" type="scale" values="0;0;1;1.08" keyTimes="0;0.278;0.403;1" calcMode="spline" keySplines="0 0 1 1;0.1 0.7 0.3 1;0 0 1 1" dur="3.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.278;0.292;0.667;0.833;1" dur="3.6s" repeatCount="indefinite"/>
+<line x2="0" y2="-62" transform="rotate(10)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="10.766" cy="-61.058" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-40.3" transform="rotate(35.714)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="23.525" cy="-32.721" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-52.7" transform="rotate(61.429)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="46.282" cy="-25.204" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-31" transform="rotate(87.143)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="30.961" cy="-1.545" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-62" transform="rotate(112.857)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="57.132" cy="24.083" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-43.4" transform="rotate(138.571)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="28.717" cy="32.541" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-55.8" transform="rotate(164.286)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="15.113" cy="53.714" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-62" transform="rotate(190)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-10.766" cy="61.058" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-40.3" transform="rotate(215.714)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-23.525" cy="32.721" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-52.7" transform="rotate(241.429)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-46.282" cy="25.204" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-31" transform="rotate(267.143)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-30.961" cy="1.545" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-62" transform="rotate(292.857)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-57.132" cy="-24.083" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-43.4" transform="rotate(318.571)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-28.717" cy="-32.541" r="3" fill="#e8fbff"/>
+<line x2="0" y2="-55.8" transform="rotate(344.286)" stroke="#7de8ff" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="-15.113" cy="-53.714" r="3" fill="#e8fbff"/>
+</g></g>
+</svg>
